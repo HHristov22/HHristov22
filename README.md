@@ -1,8 +1,11 @@
 <!-- <img src="https://raw.githubusercontent.com/Carol42/Carol42/main/assets/header.png" alt="MasterHead" style="width:100%;"> -->
 
-<h1 align="center">Hi 👋, I'm Hristo Hristov</h1>
+<h1 align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=800&height=100&duration=3200&lines=Hi+There!+👋;+I'm+Hristo+Hristov!;" />
+<!-- <h1 align="center">Hi 👋, I'm Hristo Hristov</h1> -->
 <h2 align="center">A passionate software developer from Bulgaria</h2>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+</h1>
 
 <br/>
 
