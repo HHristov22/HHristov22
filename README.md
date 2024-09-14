@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/hristo-hristov-a46557214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hristo-hristov-a46557214/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100074093485802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100074093485802" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hhristov8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hhristov8/" height="30" width="40" /></a>
+<a href="https://hhristov.vercel.app/" target="blank"><img align="center" src="https://github.com/HHristov22/hhristov/blob/main/public/images/favicon.png" alt="https://hhristov.vercel.app/" height="30" width="30" /></a>
 </p>
 
 <br/>
